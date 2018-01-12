@@ -21,7 +21,7 @@ use Lullabot\AMP\AMP;
 /**
  * Class AmpTest
  */
-class AmpTest extends PHPUnit_Framework_TestCase
+class AmpTest extends PHPUnit\Framework\TestCase
 {
     /** @var AMP */
     protected $amp = null;
